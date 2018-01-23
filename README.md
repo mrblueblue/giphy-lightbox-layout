@@ -1,3 +1,5 @@
+<img width="1073" alt="screen shot 2018-01-22 at 5 43 21 pm" src="https://user-images.githubusercontent.com/9220038/35253732-d430ee78-ff9b-11e7-8654-7561bfda417c.png">
+
 # Getting Started
 
 To run the application locally, you must provide your own Giphy API key by creating a file `constants/apikey.js` that exports an `API_KEY` string. See `constants/apikey.example.js` for an example.
