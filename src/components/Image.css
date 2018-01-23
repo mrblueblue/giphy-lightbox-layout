@@ -1,0 +1,12 @@
+.image-container, .color-preview, .still-preview, .gif-image {
+  position: absolute;
+}
+
+.still-preview {
+  opacity: 0;
+  transition: opacity .3s ease-in-out;
+}
+
+.still-preview.show {
+  opacity: 1;
+}
